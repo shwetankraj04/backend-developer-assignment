@@ -1,4 +1,4 @@
-# Frontend Assignment – Solved Problems
+# Backend Developer Assignment – Solved Problems
 
 This submission contains **2 solved Trigonometry problems (Template 1)** and  
 **2 solved Compound Interest problems (Template 2)**, following the given templates and rules.
